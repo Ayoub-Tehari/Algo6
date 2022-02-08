@@ -1,0 +1,7 @@
+Mesure expérimentale d'une fonction de coût par instrumentation d'un programme.
+Introduction.
+Dans cette APNEE on a dû ajouter une fonction, f qui calcule le nombre de comparaison entre deux éléments d'un tableau,
+ effectué par le programme de tri par insertion. Ensuite, on a modifié le programme pour qu'il puisse chercher 
+le coût moyen de f. De ce fait on a du tracer une courbe de coût en utilisant gnuplot. Finalement, on a dû 
+completer une fonction de tri rapide et en en utilisant refait l'expérience.
+Exercice 1.
